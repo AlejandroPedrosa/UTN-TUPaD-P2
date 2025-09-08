@@ -5,6 +5,7 @@
 ## ✨ Estudiante  
 - **Nombre:** Alejandro, Pedrosa
 - **Comisión:** Ag25-2C 01
+- **Legajo:** 1032
   
 ## 📂 Descripción del Repositorio  
 Este repositorio almacena todas los trabajos prácticos realizados durante la cursada de **Programación 2**.  
