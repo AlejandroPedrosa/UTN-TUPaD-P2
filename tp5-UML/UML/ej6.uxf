@@ -1,0 +1,18 @@
+<diagram program="umletino" version="15.1"><zoom_level>10</zoom_level><element><id>UMLClass</id><coordinates><x>40</x><y>370</y><w>210</w><h>100</h></coordinates><panel_attributes>Reserva
+--
+- fecha: String
+- hora: String
+--
++ toString(): String</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>380</x><y>370</y><w>210</w><h>100</h></coordinates><panel_attributes>Cliente
+--
+- nombre: String
+- telefono: String
+--
++ toString(): String</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>40</x><y>190</y><w>210</w><h>90</h></coordinates><panel_attributes>Mesa
+--
+- numero: int
+- capacidad: int
+--
++ toString(): String</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>130</x><y>270</y><w>40</w><h>120</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;&lt;-
+m2=1</panel_attributes><additional_attributes>10;100;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>240</x><y>410</y><w>160</w><h>40</h></coordinates><panel_attributes>lt=&lt;-
+m1=1</panel_attributes><additional_attributes>140;10;10;10</additional_attributes></element></diagram>
